@@ -3,6 +3,7 @@ This repository contain the unit tests for creating and deleting a booking recor
 http://hotel-test.equalexperts.io/  
 
 Tests have been implemented using 
+* MacOS
 * Java
 * Selenium
 * TestNG
